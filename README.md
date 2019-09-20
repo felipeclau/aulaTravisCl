@@ -4,3 +4,5 @@ pratica da ferramenta Travis pela materia de DevOps do Curso de Banco de Dados 2
 Adicionado meu nome: FELIPE.
 
 Adicionado meu nome: FELIPE. DE NOVO.
+
+Adicionado meu nome: FELIPE. DE NOVO.
